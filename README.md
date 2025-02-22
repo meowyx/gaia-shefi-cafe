@@ -2,7 +2,7 @@
 ## Gaia Shefi Cafe
 
 
-![Gaia Shefi Cafe](gaia-cafe.png)
+![Gaia Shefi Cafe](./gaia-cafe.png)
 
 
 This is a Next.js project that uses the Vercel AI SDK + Gaia API to create a lil ai the Gaia Shefi Cafe.
